@@ -5,4 +5,4 @@ i = 0
 while i <= 55_000_000:
     i += 1
 
-st.write("DONE!")
+st.write("DONE with custom wheel file!")
